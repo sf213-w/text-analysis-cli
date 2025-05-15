@@ -1,6 +1,7 @@
 # Sentiment and Text Analysis CLI
 
 A simple command-line tool to perform sentiment analysis, classification, or summarization on text reviews using the `mall` library and an Ollama LLM.
+This tool was developed for a project to analyze marketing data from a customer survey. Customers responded to questions using free-format text, hence the need for a language-model approach.
 
 ## Prerequisites
 
