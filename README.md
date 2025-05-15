@@ -12,7 +12,7 @@ This tool was developed for a project to analyze marketing data from a customer 
 - Pull your desired model, e.g.:
 
 ```bash
-    ollama pull llama3
+    ollama pull llama3.2
 ```
 
 ## Installation
