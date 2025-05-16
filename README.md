@@ -27,7 +27,8 @@ source venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install mall polars
+pip install mlverse-mall
+pip install polars
 ```
 
 Ensure Ollama is available in your PATH.
