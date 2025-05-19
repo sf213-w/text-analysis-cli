@@ -1,0 +1,3 @@
+Answer a question.
+Return a short explanation in 10 words or less.
+Answer this about the following text, what would make it easy to implement HIPPA in my organization?

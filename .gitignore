@@ -1,0 +1,12 @@
+# Ignoring the Cache
+_mall_cache/*
+
+# Ignoring the CSV files
+*.csv
+
+# Igorning the Excel files
+*.xlsx
+
+# Ignore specific txt files
+responses2020.txt
+Results-from-2021.txt
